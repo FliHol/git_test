@@ -1,2 +1,2 @@
 # git_test
-first steps
+first steps in Git
